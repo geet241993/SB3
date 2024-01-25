@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<employee>
+	<address>
+		<city>Barshi</city>
+		<pincode>637878</pincode>
+<state>MH</state>
+</address>
+<empid>101</empid>
+<name>Namrata</name>
+<salary>30000</salary>
+</employee>
